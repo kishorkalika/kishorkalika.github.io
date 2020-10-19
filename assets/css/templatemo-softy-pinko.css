@@ -1323,10 +1323,8 @@ blog
 }
 
 .blog-post-thumb .img {
-  overflow: hidden;
   border-radius: 20px;
   position: relative;
-  height: 200px;
 }
 
 .blog-post-thumb .blog-content {
